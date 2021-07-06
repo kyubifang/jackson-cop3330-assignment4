@@ -57,6 +57,10 @@ class ListControllerTest {
 
     @Test
     void openButtonClicked() {
+        //#19-20
+        //click file, then navigate to open
+        //locate file on desktop
+        //assert that txt file was correctly opened in gui
     }
 
     @Test
